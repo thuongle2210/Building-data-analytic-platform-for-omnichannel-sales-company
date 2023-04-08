@@ -1,6 +1,6 @@
 # Building-data-analytic-platform-for-omnichannel-sales-company
 
-The project is under the guidance and suggestions of [Associate Professor Dr. Nguyen Thanh Binh](https://scholar.google.com/citations?user=IxTS6l0AAAAJ&hl=vi)
+The project is under review by [Associate Professor Dr. Nguyen Thanh Binh](https://scholar.google.com/citations?user=IxTS6l0AAAAJ&hl=vi)
 
 
 For some security reasons I only provide the system design.
